@@ -23,6 +23,9 @@
 	1. git status
 	2. git add filename(s)
 	3. git commit -m "message"
+	4. git push origin filename
+	5. create pull request
+	6. merge pull request
 
 * What is a pull request and how do you create and merge one?
 	A pull request is the signal and process to merge the changes you've made to your branch back into the upstream branch. You create a pull request through the github site by browsing to the branch of interest, selecting the appropriate base and head branches and and clicking the "create pull request" button. Merging is accomplished by browsing to the pull request and clicking the "confirm merge" button.
