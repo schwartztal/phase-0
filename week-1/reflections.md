@@ -44,3 +44,8 @@ A commit is simply a snapshot of your code at a given instance, like saving a te
 
 # 1.4 Forking and Cloning Reflection
 
+Setting up git and GitHub were straightforward processes and I fortunately did not run into any issues . For this lesson I learned to create a new repository, fork an existing repository owned by someone else into my own GitHub account and finally clone both of these to my local machine. To create a new repository, simply browse to GitHub and define the basic features of the repository: it's name, an optional description, whether it will be publicly available or private only to you/your organization. You also need to specify the open source software license that will communicate to other developers what permission you're granting to the code.
+
+Forking a repo is also easy with Github. Browsing to the repo of interest present a "fork" button along the top of the page (alongside a # representing how many times the code has been forked, which also leads to a nifty graphical representation of who else worked with the repo). Forking is a useful way to take an existing repo as the starting point for some work rather than creating everything from scratch with a new repo. It also lets you play with an existing repo without making any changes to the original. 
+
+Cloning to the local machine is a matter of copying the secure download link, browsing to the desired directory on the local machine and typing in "git clone URL"
