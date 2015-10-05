@@ -21,7 +21,7 @@
 	Now that I've got some resources pulled together for my website, I need to start thinking about the purpose of the site, how I want people to consume or interact with it and then how I'm going to lay out the structure and where all of the elements will fit together to make it a great experience for users. 
  
 
-![Personal Site Map](/imgs/SiteMap.png "My First Site")
+![Personal Site Map](/week-2/imgs/SiteMap.png "My First Site")
 
 #### Purpose
 
