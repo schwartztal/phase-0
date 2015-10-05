@@ -1,6 +1,5 @@
 
-	![Personal Site Map](/imgs/SiteMap.png "My First Site")
-
+	
 <h1> Building my First Website</h1>
 <h2> Day 1</h2>
 <h3> The 6 Phases of Web Design</h3>
@@ -20,6 +19,7 @@
 <h3> Planning </h3>
 <p>
 	Now that I've got some resources pulled together for my website, I need to start thinking about the purpose of the site, how I want people to consume or interact with it and then how I'm going to lay out the structure and where all of the elements will fit together to make it a great experience for users. 
+ 	![Personal Site Map](/imgs/SiteMap.png "My First Site") 
 </p>
 
 <h4> Purpose </h4>
@@ -38,6 +38,7 @@
 	Professional  - find the portfolio, see the resume/work experience, interact with an example site, contact me through e-mail or LinkedIn<br>
 	Personal - read my thoughts about the experience, browse &amp; click through examples of my work, post their thoughts or otherwise interact with me
 </p>
+
 <h3> Design and User Experience</h3>
 <p>
 	For new developers, the main things to know about design and user experience are that they determine how people (users) actually interact with your site and to a large extent define how much they'll take away from the experience. You may have written an exceptionally architected example of a complex application, but if the user can't find and interact with it in a quick and easy manner, they'll either A) leave or abandon the site or B) stick with it but take away a perception of poor quality.
