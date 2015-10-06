@@ -1,2 +1,2 @@
-![Landing Page Wireframe](/wireframe-index.png)
-![Blog Wireframe](/wireframe-blog-index.png)
+![Landing Page Wireframe](/week-2/wireframe-index.png)
+![Blog Wireframe](/week-2/wireframe-blog-index.png)
