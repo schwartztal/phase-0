@@ -1,0 +1,76 @@
+html{
+    background-color: #ffffff;
+    color: #000080;
+}
+
+a {
+    color: #800080;
+    
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+ul {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+
+    line-height: 250%;
+}
+ 
+header {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+
+div{
+    line-break:auto;
+}
+
+.first-letter{
+    font-size: 20px;
+}
+
+.geico{
+    font-size:10px;
+    text-align:center;
+    line-break: auto;
+}
+
+.hline {
+    width: 100%;
+    background: #000000;
+    height: 1px;
+}
+
+#contact_info{
+    font-size: 12px;
+}
+
+.extra-text{
+    font-size: 12px;
+    line-break:auto;
+}
+
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+    It's important to know the relative location of the external file and appropriately point the href element to that location. This is particularly try when (like in this example) the external reference is in a different directory that's linked only by a parent directory of the html page that you're displaying
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+    It wasn't particularly difficult to get the position once we got columns working. Interesting that we needed to include different CSS syntax for columns to be handled by the different browsers. Spacing the bulleted items was also a little bit tricky, and we ended up not getting to correcting the spacing of the "extra text" comments that go underneath a few of the links. Line breaks in CSS were also a little bit tricky, but mostly in that all the solutions we found are a bit of a hack. I think line breaks are more efficient to do in the html itself.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+    we used font-size (a bunch), height, background, width, text-align and color.
+Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+    Yes, we used classes quite thoroughly and ids in one place. Classes where we wanted to apply the same formatting changes more than once and ids where it was a one-time / unique change.
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+    Our site has cleaner code compared to the actual Berkshire Hathaway site. By splitting the formatting (CSS) and content (HTML) each file becomes far more legible, and although I haven't actually checked the counts, I'd wager that we got it done in fewer lines of code (or at least fewer characters of code).
+*/
+
