@@ -1,12 +1,12 @@
-![3.4-1](./imgs/3.4-1)
-![3.4-2](./imgs/3.4-2)
-![3.4-3](./imgs/3.4-3)
-![3.4-4](./imgs/3.4-4)
-![3.4-5](./imgs/3.4-5)
-![3.4-6](./imgs/3.4-6)
-![3.4-7](./imgs/3.4-7)
-![3.4-8](./imgs/3.4-8)
-![3.4-9](./imgs/3.4-9)
+![3.4-1](./imgs/3.4-1.png)
+![3.4-2](./imgs/3.4-2.png)
+![3.4-3](./imgs/3.4-3.png)
+![3.4-4](./imgs/3.4-4.png)
+![3.4-5](./imgs/3.4-5.png)
+![3.4-6](./imgs/3.4-6.png)
+![3.4-7](./imgs/3.4-7.png)
+![3.4-8](./imgs/3.4-8.png)
+![3.4-9](./imgs/3.4-9.png)
 
 How can you use Chrome's DevTools inspector to help you format or position elements?
 	Chrome's DevTools gives a surprisingly easy to use interface to examine element by element the css selectors being used, the properties being modified and the value that each is set to. It presents the defaults set by the browser "User Agent" and the styling contained in any referenced external CSS files. Those externally defined styles can be turned off indivudally by checking a box. Finally it lets you modify the CSS for that element with the element.style window. Changes are immediately reflected in the browser window and the auto-fill suggestions are pretty good. 
