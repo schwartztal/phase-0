@@ -9,16 +9,16 @@ Integer division rounds to the nearest whole number, where float will compute th
 Release 2
 
 Hours in a Year: 
-'''
+```
 irb(main):001:0> 24 * 365
 => 8760
-'''
+```
 
 Minutes in a Decade:
-'''
+```
 irb(main):002:0> 60 * 24 * 365 * 10
 => 5256000
-'''
+```
 
 Release 5 - Exercises
 
