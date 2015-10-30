@@ -74,7 +74,7 @@ end
 
 
 def my_hash_splitting_method(source, age)
-  Array.new << source.select{ |x, y| y <= age}.to_a <<  source.select{ |x, y| y > age}.to_a # This line is here to make sure all tests initially fail. Delete it when you begin coding.
+  Array.new << source.select{ |x, y| y <= age}.to_a <<  source.select{ |x, y| y > age}.to_a
 end
 
 # Identify and describe the Ruby method(s) you implemented.
