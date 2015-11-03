@@ -69,3 +69,16 @@ startup_names.map!  { |element|
 }
 
 p startup_names
+
+=begin
+
+What are some general rules you can apply to nested arrays?
+  When trying to find a relative position, start from the desired element and count "out".
+
+What are some ways you can iterate over nested arrays?
+.each and .map are what we used, then call .each or .map again for each level of nesting that applies
+
+Did you find any good new methods to implement or did you re-use one you were already familiar with? What was it and why did you decide that was a good option?
+Lifted right from the instructions but we used .kind_of? to find the nested arrays that were then iterated on again.
+
+end
