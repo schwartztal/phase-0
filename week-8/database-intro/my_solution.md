@@ -12,7 +12,7 @@ RELEASE 5:
 10. SELECT regions.region_name, states.state_name FROM regions INNER JOIN states ON regions.id = states.region_id  ORDER BY region_id ASC;
 
 RELEASE 6:
-[Clueless Schema] (https://github.com/schwartztal/phase-0/blob/master/week-8/database-intro/Clueless%20Schema.png)
+![Clueless Schema] (https://github.com/schwartztal/phase-0/blob/master/week-8/database-intro/Clueless%20Schema.png)
 
 Reflection
 
